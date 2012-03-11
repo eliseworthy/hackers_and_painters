@@ -155,7 +155,25 @@ The earner of wealth must be able to retain it to want to create it.
 -  
 
 1.  
+Baysian filtering for spam is more effective than content filtering.
 
+2.  
+Spam filtering can be personalized based on the content of the spam and non-spam messages they receive. This is done simply by computing a spam probability from keywords in each.
+
+3.  
+I don't have any questions - this seems like a straightforward and elegant solution.
+
+4.  
+Spam will stop if people stop responding to it. However, he mentioned that some people are enticed by the content of spam. If these people still respond to spam (15 in 1m), how will spam stop?
+
+5.  
+Employing statistics can be very effective in filtering spam. 
+Spam is a business with no marginal cost. 
+
+9
+-  
+
+1.  
 
 
 
