@@ -90,6 +90,27 @@ Dig into what exists to learn and get ideas.
 Be wary of artificial restrictions.
 
 5
--
+-  
+
+1.  
+Web-based applications are superior to desktop applications because they can be implemented and improved rapidly, taking the customer into account.
+
+2.  
+Large companies are frightened of software startups. They can't implement as rapidly and aren't as productive.
+
+3.  
+The least technical users are the ones that need web-based software the most. However, they're the slowest to change. How will this be addressed?
+
+4.  
+I am not sure I agree with total ownership of different pieces of software by different individuals. I agree that having multiple people write code on top of each other isn't good, but collaboration would probably lead to more elegant solutions.
+
+5.  
+Software that is released rapidly contains fewer bugs, and the bugs that are found are smaller and easier to fix.  
+To be successful launching a web-based startup, you need to know the technical side.
+Rich companies buy expensive solutions because there was more invested by the application company in acquiring them. The software is likely worse.
+
+6
+-  
+
 
 
