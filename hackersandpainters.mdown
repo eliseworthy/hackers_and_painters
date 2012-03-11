@@ -110,7 +110,31 @@ To be successful launching a web-based startup, you need to know the technical s
 Rich companies buy expensive solutions because there was more invested by the application company in acquiring them. The software is likely worse.
 
 6
+-   
+
+1.  
+Wealth is not the same as money. You can create wealth and grow the 'wealth pie.'
+In large companies, your effort is measured by the average, so you aren't incentivized to work harder. 
+
+2. 
+A single skilled programmer can make hundreds of thousands of dollars of value in a day, while a mediocre programmer can make zero or negative value with the introduction of bugs.  
+
+3. He defines startups as businesses tackling hard technical problems. Are all hard problems techincal? What about a barber that innovates operations or marketing?
+
+4.  
+Is a boss always a proxy for the customers? In a big business, bosses do control work, but it seems like they may be less in touch with actual customer needs.
+
+5.  
+To gain wealth, put yourself in a position that has both measurement and leverage.
+Seek out the harder problems for competitive advantage.
+Numbers of users are a proxy for software quality.
+
+7
 -  
+
+1. 
+
+
 
 
 
