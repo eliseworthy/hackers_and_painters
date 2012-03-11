@@ -185,14 +185,24 @@ This list seems to be stream-of-consciousness opinions about design. Is good des
 
 5.   
 Good design is simple 
-Experts can produce good design rapidly and automatically
 Redesign is required to get it right  
 
 10
 --
 
 1.  
+A quick explanation of and set of opinions on programming languages, open source, and programming culture
+2.  
+High-level programming languages let us do powerful things with less specific code
+3.  
+What's the best method for choosing a programming language?
+4.  
+He said that object-orientation should be an option, not a requirement, of a language. What does this do to tranferability and maintenence of code?
+5.   
+With high level language, you can transfer it from one machine to another with different compilers
 
+11
+--
 
 
 
