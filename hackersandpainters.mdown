@@ -204,8 +204,7 @@ With high level language, you can transfer it from one machine to another with d
 11
 --
 
-1. Summarize the chapter 
-
+1.  
 A discussion about languages, how their evolution influences their design, and what to be mindful of when designing a language
 2.  
 Programmers of the future will want to have languages that allow them to do quick prototyping with little effort. They'll want languages that are easier to write, but   can adapt their speed.
