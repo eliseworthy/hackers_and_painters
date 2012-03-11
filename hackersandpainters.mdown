@@ -198,11 +198,25 @@ High-level programming languages let us do powerful things with less specific co
 What's the best method for choosing a programming language?
 4.  
 He said that object-orientation should be an option, not a requirement, of a language. What does this do to tranferability and maintenence of code?
-5.   
+5.  
 With high level language, you can transfer it from one machine to another with different compilers
 
 11
 --
+
+1. Summarize the chapter 
+
+A discussion about languages, how their evolution influences their design, and what to be mindful of when designing a language
+2.  
+Programmers of the future will want to have languages that allow them to do quick prototyping with little effort. They'll want languages that are easier to write, but   can adapt their speed.
+3.   
+Do we need to bet on the branch that will be working in the next 100 years? Why not use what's applicable now?
+4.   
+Is it always best to stay on the main branches? Where do cutting-edge languages lie, and how can we figure out how they're going to do without exploring?
+5. 
+Know the evolution of languages to make good choices about what to use and how to create new langauges
+Languages that thrive have the smallest, cleanest cores
+OO langauges are not reusable because they're OO, it's because they're bottom-up (libraries for example)
 
 
 
