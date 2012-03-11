@@ -30,11 +30,11 @@ His idea that student popularity is caused by caring more about popularity than 
 Some nerds were bullied heavily in school and didn't find productive things to do. 
 
 2
--
+-  
 
 1.
 Hackers are more like painters (makers) than engineers (implementers).
-There is nuance and art to writing software.
+There is nuance and art to writing software.  
 
 2. 
 The author said to "...fight design wars in new markets," after explaining why large companies create bad software. This is surprising. It seems as if there's a tremendous amount to be gained by creating beautiful software that replaces existing crappy software written by large teams.
