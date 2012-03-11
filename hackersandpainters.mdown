@@ -32,7 +32,7 @@ Some nerds were bullied heavily in school and didn't find productive things to d
 2
 -  
 
-1.
+1.  
 Hackers are more like painters (makers) than engineers (implementers).
 There is nuance and art to writing software.  
 
