@@ -27,6 +27,27 @@ The author made broad claims about high school students' caste systems, popular 
 His idea that student popularity is caused by caring more about popularity than about other things, and that popularity is based on a certain set of criteria, seems flawed. Thankfully, my high school experience was awesome. I felt neither popular nor unpopular and the adults in my life were actively engaged in seeing me succeed, academically and beyond.
 
 5. 
-Some nerds have major chips on their shoulders.
+Some nerds were bullied heavily in school and didn't find productive things to do. 
+
+2
+-
+
+1.
+Hackers are more like painters (makers) than engineers (implementers).
+There is nuance and art to writing software.
+
+2. 
+The author said to "...fight design wars in new markets," after explaining why large companies create bad software. This is surprising. It seems as if there's a tremendous amount to be gained by creating beautiful software that replaces existing crappy software written by large teams.
+
+3. 
+Why is knowing theory irrelevant? I understand that practice and application are extremely important to writing code, but it seems that knowing how systems are implemented to be efficient, and knowing about coding practices, is also valuable.
+
+4. 
+The author said that contribution to open source was paramount in hiring - that it proved that candidates loved their craft. I've heard arguments against this, particularly related to diversity and championing women who care for families and take on a larger number of domestic duties than men. I think contribution to open source is not the primary identifier of love of software and that idea should be revamped.
+
+5. 
+Hackers start original, and get good, while scientists start good and get original. 
+Hacking, like painting, is done through gradual refinement. 
+Empathy for the user is crucial in creating great software. 
 
 
