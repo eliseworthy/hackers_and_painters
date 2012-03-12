@@ -279,8 +279,8 @@ Maintain healthy naivity (optimistic about solving the problem) and sketicism (w
 15
 --
 
-1.
-This chapter explores the intersection research and design
+1.  
+This chapter explores the intersection research and design  
 
 2.  
 Once you focus on the design of a language as a design problem, you will think of the user first. It's best to study what the user needs first.
