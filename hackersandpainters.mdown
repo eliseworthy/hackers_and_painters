@@ -276,7 +276,27 @@ Hackers like succintness. Succintness comes from abstraction.
 A good language should be clean (small core of well understood operators) and dirty (the programmers can do what they want with it)
 Maintain healthy naivity (optimistic about solving the problem) and sketicism (what's the value of this solution?)
 
+15
+--
 
+1.
+This chapter explores the intersection research and design
+
+2.  
+Once you focus on the design of a language as a design problem, you will think of the user first. It's best to study what the user needs first.
+
+3.  
+How much of programming languages' popularity is luck, not just good design?
+
+4.  
+Ruby as designed for programmer happiness - but it also seems like it was originally developed (and in some ways, still is) in a vacuum. How much of the user research is necessary when you're designing a language that will eventually evolve?
+
+5.  
+  Design doesn't have to be new, but it has to be good. Research doesn't have to be good, but it has to be new. 
+If you're designing something for idiots, chances it won't be good, even for idiots.
+To get good design you have to get close and stay close to your users.
+Get a prototype in front of users as quickyl as possible.
+If you're bored when you draw something, the drawing will be boring.
 
 
 
