@@ -243,6 +243,24 @@ Use job descriptions as a way to evaluate competitors
 --
 
 1.  
+Not all programming languages are created equal
+
+2.  
+Lisp started out as a theoretical exercise, but became a language. It's still relevant because it's based on math, not technology.
+
+3.  
+It seems like many of the benefits of Lisp exist in Ruby. Is there any benefit to using Lisp now?
+
+4.   
+I haven't heard anything about Lisp macros - I think I would have by now if they were so crucial (but maybe not). Is this idea still relevant?
+
+5.  
+Choosing a more powerful language decreases the team size you need
+Don't let non-technical managers make technical decisions for you
+
+14
+--
+
 
 
 
