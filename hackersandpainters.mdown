@@ -208,15 +208,41 @@ With high level language, you can transfer it from one machine to another with d
 A discussion about languages, how their evolution influences their design, and what to be mindful of when designing a language
 2.  
 Programmers of the future will want to have languages that allow them to do quick prototyping with little effort. They'll want languages that are easier to write, but   can adapt their speed.
-3.   
+3.  
 Do we need to bet on the branch that will be working in the next 100 years? Why not use what's applicable now?
-4.   
+4.  
 Is it always best to stay on the main branches? Where do cutting-edge languages lie, and how can we figure out how they're going to do without exploring?
 5. 
 Know the evolution of languages to make good choices about what to use and how to create new langauges
 Languages that thrive have the smallest, cleanest cores
 OO langauges are not reusable because they're OO, it's because they're bottom-up (libraries for example)
 
+
+12
+--
+
+1.  
+Lisp is powerful language and knowing it gives you the freedom to evaluate other languages
+
+2. 
+I've never heard of Lisp in use, and he says Lisp is the most powerful language available. Is this still true?  
+
+3.  
+The author says a startup should give its competitors as little information as possible, but this seems contradictory to the open source mentality. Many leading startups (37 Signals included) gives quite a bit of information publically in their blog, etc. Where's the balance?  
+
+4.  
+Is it really crucial to understand the most powerful language when buidling web apps? Isn't it better to write in a language you're most profiencient in, and one that is best suited for the task at hand (recognizing there might be easier ways to do it in languages you're not as good at)?
+
+5.   
+Average performance by a startup means the startup will go out of business
+Know the most powerful languages before deciding on what to use for specific applications
+Use rare but powerful languages for your competitive advantage
+Use job descriptions as a way to evaluate competitors
+
+13
+--
+
+1.  
 
 
 
