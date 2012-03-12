@@ -261,6 +261,20 @@ Don't let non-technical managers make technical decisions for you
 14
 --
 
+1. 
+Exploring what makes languages popular and desirable
+
+2.  
+A language has to be popular to be good. This is because languages evolve on the surface, though their core will always remain relatively unchanged.
+3.  
+Java is popular largely because of its backing from Sun. How does corporate influence play a role?
+4.  
+The author states that the language has to be around for a couple of years before even experts adopt. Is this still the case? It seems that folks on the cutting edge like using the breakthrough implementations (node, for example).
+5.  
+Expert hackers are a tiny minority, but their decisions will influence all programmers
+Hackers like succintness. Succintness comes from abstraction.
+A good language should be clean (small core of well understood operators) and dirty (the programmers can do what they want with it)
+Maintain healthy naivity (optimistic about solving the problem) and sketicism (what's the value of this solution?)
 
 
 
